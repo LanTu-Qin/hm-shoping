@@ -1,11 +1,13 @@
 <template>
-  <div id="app">
-    <router-view />
-  </div>
+  <div>我是MyOrder</div>
 </template>
+
 <script>
 export default {
+  name: 'MyOrderIndex'
 }
 </script>
-<style lang="less">
+
+<style>
+
 </style>
